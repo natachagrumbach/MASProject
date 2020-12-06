@@ -1,0 +1,13 @@
+To run my project, please follow the next instructions :
+- go to  my GitHub repository:
+https://github.com/natachagrumbach/MASProject
+- download on your computer the source file directory : CovidSimulation
+- open Eclipse for Repast
+- create a new Repast Symphony project
+- name it "CovidSimulation"
+- open the Java perspective
+- copy all the source files located into CovidSimulation/src and paste them into the src directory created in your Repast project
+- copy all the xml files located into CovidSimulation/CovidSimulation.rs and paste them into the CovidSimulation.rs directory created in your Repast project (accept to overwrite all the files)
+- copy all the icon files located into CovidSimulation/icons and paste them into the icons directory created in your Repast project 
+- click on the Run button and choose the CovidSimulation model
+- enjoy !
